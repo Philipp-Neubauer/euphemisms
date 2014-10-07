@@ -1,0 +1,8 @@
+Package: Euphemisms
+Type: Package
+Title: Makes life easier
+Version: 0.0.1
+Date: 2014-10-07
+Author: Philipp Neubauer
+Description: repeatedly used utils
+License: GPL 3
