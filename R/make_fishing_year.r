@@ -1,3 +1,9 @@
+#' converts date into fishing year
+#' 
+#' @param date an object of class Date
+
+
+#' @export
 make_fishing_year <- function(date){
   year = format(date_s,'%Y')
   month = format(date_s,'%m')
