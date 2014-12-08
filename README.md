@@ -1,4 +1,4 @@
-Euphemisms
+euphemisms
 ==========
 
-Makes life easier
+Make life easier - convenience functions
